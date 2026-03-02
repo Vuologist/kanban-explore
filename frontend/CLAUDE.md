@@ -45,3 +45,8 @@ npm run db:studio             # Open Prisma Studio at localhost:5555
 ## Notes
 
 - No Prettier config is present; formatting is not enforced beyond ESLint rules.
+
+## Session Tracking
+
+- Keep all project notes, todos, and session context **inside the repo** (not in Claude's internal memory directory) so they can be shared via version control.
+- Use `TODO.md` at the **repo root** to track current tasks, in-progress work, and what was last worked on. Update it at the end of each session.
